@@ -1,5 +1,9 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
+Name: Kaviska B
+Register Number: 212224250008
+Aim:
+   To implement Classical Planning Algorithm
 <ol>
   <li>Define the initial state</li>
   <li>Define the goal state</li>
